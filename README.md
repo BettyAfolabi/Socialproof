@@ -4,8 +4,8 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/BettyAfolabi/Socialproof)
+- Live Site URL: [Add live site URL here](https://betty-social-proof-solution.netlify.app/)
 
 ### Built with
 
@@ -21,6 +21,6 @@ How to use grid to create a descending effect
 
 ## Author
 
-- Website - [BettyAfolabi](https://github.com/BettyAfolabi)
+- Website - [BettyAfolabi](https://linkedin.com/in/elizabeth)
 - Frontend Mentor - [@Betty](https://www.frontendmentor.io/profile/Betty)
 - Twitter - [@devduchess](https://www.twitter.com/devduchess)
