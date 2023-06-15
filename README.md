@@ -1,11 +1,11 @@
 # Frontend Mentor - Social proof section solution
 
-This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). 
+This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA).
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/BettyAfolabi/Socialproof)
-- Live Site URL: [Add live site URL here](https://betty-social-proof-solution.netlify.app/)
+- Solution URL: [SocialProof solution](https://github.com/BettyAfolabi/Socialproof)
+- Live Site URL: [Socialproof site](https://betty-social-proof-solution.netlify.app/)
 
 ### Built with
 
